@@ -12,7 +12,8 @@ list.append("turtle");
 console.log(list.size());
 console.log(list.toString());
 
-list.insertAt(7, "spider", "human");
+
+list.removeAt(1);
 console.log(list.size());
 console.log(list.toString())
 
